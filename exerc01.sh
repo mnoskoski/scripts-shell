@@ -21,7 +21,7 @@ echo "Todos Parametros: $*"
 echo "quantos parametros $#"
 echo "saida do ultimo comando: $?"
 echo "listar o PID do processo: $$"
-echo "ver qual o sh que esta usado: $0" #saidas com 0 sao saidas sem erro saida com 1 pode ter dado erro
+echo "ver qual o sh que esta usado: $0" echo
 echo "result: $@"
 
 #@ Loops de repeticao

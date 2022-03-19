@@ -48,6 +48,3 @@ case "$1" in
   -s) echo "$USUARIOS" | sort  && exit 0 ;; 
    *) echo "$USUARIOS"                   ;;
 esac
-
-
-

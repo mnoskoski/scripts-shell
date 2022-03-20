@@ -19,9 +19,12 @@ Comandos iniciais que precisamos saber para poder utilizar o Linux:
  - mv - comando para mover arquivos entre diretorios
  - rm - comando pare remover conteudos (arquivos, diretorios)
  - su - comando para trocar de usuario, exemplo: su USUARIO, voce pode usar ele pare se tornar o usuario root da seguinte forma su root ou sudo su 
+ - usermod: comando para adicionar usuario ao grupo sudo por exemplo, exemplo de uso: usermod -aG sudo NOME_DO_USUARIO
  - apt - comando para administrar a instalacao/updates de pacotes no caso de distribuicoes baseadas em Debian
    - apt install NOME_DO_PACOTE
    - apt update - atualiza os repositorios locais 
    - apt upgrade - comando para fazer upgrade nos pacotes do SO que estao desatualizados
+
+ 
 
 

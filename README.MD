@@ -25,6 +25,8 @@ Comandos iniciais que precisamos saber para poder utilizar o Linux:
    - apt update - atualiza os repositorios locais 
    - apt upgrade - comando para fazer upgrade nos pacotes do SO que estao desatualizados
 
+   
+
  
 
 

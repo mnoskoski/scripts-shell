@@ -1,0 +1,3 @@
+comando cut
+## por exemplo estou dizendo que o delimitador é o ':' o -f é a linha
+cut -d : -f 1
